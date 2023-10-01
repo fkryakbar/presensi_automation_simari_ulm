@@ -1,0 +1,12 @@
+{
+  "name": "presensi_automation",
+  "version": "1.0.0",
+  "description": "Presensi SIMARI Otomasi",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "fkryakbar",
+  "license": "ISC"
+}
